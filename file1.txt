@@ -1,3 +1,5 @@
+Test of branches
+
 This is were the first change happen.
 
 I have changed the line I first added
